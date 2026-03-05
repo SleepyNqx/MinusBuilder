@@ -1,0 +1,5 @@
+{
+  "name": "Web Editor",
+  "description": "A fully functioning HTML, CSS, and JS editor with live preview and export capabilities.",
+  "requestFramePermissions": []
+}
